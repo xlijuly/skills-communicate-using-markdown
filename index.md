@@ -9,3 +9,5 @@ I've just added headers H1-H6.
 ``` python
 print("Hello world!")
 ```
+- [x] Start learning to use GitHub
+- [ ] Mastering GitHub
